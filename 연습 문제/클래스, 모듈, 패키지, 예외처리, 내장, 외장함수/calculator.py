@@ -6,7 +6,7 @@ class Calculator:
         result = 0
         for num in self.numberList:
             result += num
-        return num
+        return result
     
     def avg(self):
         result = 0
